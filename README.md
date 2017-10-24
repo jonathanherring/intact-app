@@ -1,0 +1,12 @@
+#Intact
+
+Intact is a digitized solution prototype for paper risk assessment forms at work sites such as mines and mills. 
+Users can easily fill out a risk assessment on mobile. 
+Data is stored and organized so that managers can validate and pull out actionable insights.
+
+##Technologies
+Javascript, CSS3, AJAX, ExpressJS, KnexJS, React Native, HTML
+
+## Contributors
+
+https://github.com/jonathanherring
