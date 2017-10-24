@@ -8,5 +8,6 @@ Data is stored and organized so that managers can validate and pull out actionab
 Javascript, CSS3, AJAX, ExpressJS, KnexJS, React Native, HTML
 
 ## Contributors
-
+https://github.com/maverickg59
 https://github.com/jonathanherring
+https://github.com/SadatheToure
