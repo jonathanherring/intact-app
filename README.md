@@ -5,6 +5,7 @@ Users can easily fill out a risk assessment on mobile.
 Data is stored and organized so that managers can validate and pull out actionable insights.
 
 ![](https://github.com/jonathanherring/intact-app/blob/master/IntactForm1.PNG =200x700)
+<img src="https://github.com/jonathanherring/intact-app/blob/master/IntactForm1.PNG" alt="Drawing" style="width: 200px;"/>
 
 ## Technologies
 Javascript, CSS3, AJAX, ExpressJS, KnexJS, React Native, HTML, Tableau
