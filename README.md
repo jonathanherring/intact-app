@@ -4,6 +4,8 @@ Intact is a digitized solution prototype for paper risk assessment forms at work
 Users can easily fill out a risk assessment on mobile. 
 Data is stored and organized so that managers can validate and pull out actionable insights.
 
+![](https://github.com/jonathanherring/intact-app/blob/master/IntactGif.gif)
+
 <img src="https://github.com/jonathanherring/intact-app/blob/master/IntactForm1.PNG" alt="Drawing" width= "200px;"/>
 <img src="https://github.com/jonathanherring/intact-app/blob/master/IntactForm2.PNG" alt="Drawing" width= "200px;"/>
 
