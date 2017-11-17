@@ -6,9 +6,6 @@ Data is stored and organized so that managers can validate and pull out actionab
 
 ![](https://github.com/jonathanherring/intact-app/blob/master/IntactGif.gif)
 
-<img src="https://github.com/jonathanherring/intact-app/blob/master/IntactForm1.PNG" alt="Drawing" width= "200px;"/>
-<img src="https://github.com/jonathanherring/intact-app/blob/master/IntactForm2.PNG" alt="Drawing" width= "200px;"/>
-
 ## Technologies
 Javascript, CSS3, AJAX, ExpressJS, KnexJS, React Native, HTML, Tableau
 
